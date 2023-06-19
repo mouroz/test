@@ -16,7 +16,7 @@
 
 - git (list of commands)
 
-- git log (show local branch history)
+- git log (show local branch history. vscode - Type "q" to leave)
 - git status (show current add / commits status [local])
 
 **Server Conection**
