@@ -36,5 +36,4 @@
 - git pull origin [branch] (pulls server directory new changes. Fail with conflicting changes)
 
 
-
-
+Merge test
