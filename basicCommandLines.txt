@@ -1,0 +1,37 @@
+## git Bash (basic orientations without code open)
+
+- dir | (contents current directory)
+- dir <children folder> | (contents child)
+
+- cd  </c/<childrens>>
+- cd  <./<children>> (change dir)
+
+- git | (list of commands)
+- git clone <url> | (clone from repository)
+- git init | (create empty git)
+
+- code . | (open code of current dir)
+
+## vsCode git 
+
+- git | (list of commands)
+
+- git log | (show local branch history. vscode - Type "q" to leave)
+- git status | (show current add / commits status [local])
+
+**Server Conection**
+- git remote add origin <url> | (add server directory connection)
+- git remote -v | (show connected server directory)
+
+**Local changes**
+- git add . | <(save current file changes [local])
+- git commit -m "<commit explanation>" | (commits to local directory [local])
+
+**Local to Server / Server to Local**
+- git push | (empty dir)
+- git push origin master 
+- git push origin <branch> | (push local directory to server directory. Fails with conflicting code) 
+
+- git pull origin master
+- git pull origin <branch> | (pulls server directory new changes. Fail with conflicting changes)
+

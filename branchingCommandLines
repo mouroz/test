@@ -1,0 +1,11 @@
+## vsCode branching
+
+- git branch | (displays all branches)
+
+- git checkout | (compares branch to main?)
+
+- git checkout <new branch> | (creates from main)
+- git checkout -b <new branch> | (creates from main and switches)
+- git checkout -b <new branch> <copy branch> | (creates from copy branch and switches)
+
+- git checkout <existing branch> | (switch)
