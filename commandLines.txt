@@ -24,7 +24,7 @@
 - git remote -v (show connected server directory)
 
 **Local changes**
-- git add (save current file changes [local])
+- git add .(save current file changes [local])
 - git commit -m "[commit explanation]" (commits to local directory [local])
 
 **Local to Server / Server to Local**
