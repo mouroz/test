@@ -9,3 +9,5 @@
 - git checkout -b <new branch> <copy branch> | (creates from copy branch and switches)
 
 - git checkout <existing branch> | (switch)
+
+info main
